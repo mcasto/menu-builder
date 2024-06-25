@@ -40,8 +40,6 @@
   const onItemClick = (item) => {
     if (item.path) {
       console.log("Navigating to:", item.path);
-      // Use your routing logic here, for example:
-      // this.$router.push(item.path);
     }
   };
 </script>
