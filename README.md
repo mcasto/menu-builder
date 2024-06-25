@@ -8,6 +8,8 @@ If you're a developer, though, you'll likely be able to figure everything out. I
 
 It provides methods to export the menu tree you build, and to import one that was previously built.
 
+At some point, I might offer built versions of this, but, for now, if you use Electron, you can download and build for your system.
+
 ## Install the dependencies
 ```bash
 yarn
