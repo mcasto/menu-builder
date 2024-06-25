@@ -1,6 +1,6 @@
 {
   "name": "menu-builder",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A gui tool to help me build navigation menus for websites",
   "productName": "Menu Builder",
   "author": "Mike Casto <castoware@gmail.com>",
