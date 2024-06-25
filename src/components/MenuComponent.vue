@@ -40,6 +40,7 @@
   const onItemClick = (item) => {
     if (item.path) {
       console.log("Navigating to:", item.path);
+      // If using this component in a live project, you would handle your navigation here
     }
   };
 </script>
